@@ -1,0 +1,3 @@
+https://openjscad.org/
+
+https://en.wikibooks.org/wiki/OpenJSCAD_User_Guide
